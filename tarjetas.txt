@@ -1,4 +1,6 @@
-
 master
 visa
 mex
+rapipago
+pagofacil
+

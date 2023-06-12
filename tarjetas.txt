@@ -1,4 +1,5 @@
 
 master
 visa
-
+rapipago
+pagofacil
